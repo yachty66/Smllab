@@ -1,5 +1,3 @@
-# Smlllab
-
 - ## Mission
     - Smllab is a machine learning lab which goal it is to specifically accelerate progress in science and engineering related fields. 
     - For that we build a community around this science topics and setup diverse projects to work on. We are an open community and everyone can join for contribution.
@@ -11,7 +9,7 @@
         - **Why**
             - Serendipity. What was the magic in Los Alamos?
         - **How**
-            - At least 5 people need to come together for that. By interest write a mail to @MaxHager in our Discord channel.
+            - At least 5 people need to come together for that. Contact @MaxHager in Discord if you are interested.
 
     - ### Hackerspace
         - **What**
