@@ -1,4 +1,4 @@
-Smllab 
+# Smlllab
 
 - # Mission
     - Smllab is a machine learning lab which goal it is to specifically accelerate progress in science and engineering related fields. 
